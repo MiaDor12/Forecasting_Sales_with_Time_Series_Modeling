@@ -5,4 +5,4 @@
 * The purpose of this project for us was to experiment with time-series data and with the Facebook Prophet tool.
 * The prediction that we submitted to kaggle got RMSPE score of 0.13223, which is really high compared to other competitors.
 
-For a better view of the notebook: https://nbviewer.jupyter.org/github/MiaDor12/Forecasting_Sales_with_Times_Series_Modeling/blob/master/Forecasting_Sales_with_Times_Series_Modeling.ipynb
+For a better view of the notebook: https://nbviewer.jupyter.org/github/MiaDor12/Forecasting_Sales_with_Time_Series_Modeling/blob/master/Forecasting_Sales_with_Times_Series_Modeling.ipynb
