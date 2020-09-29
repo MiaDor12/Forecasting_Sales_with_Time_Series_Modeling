@@ -1,4 +1,4 @@
-# Forecasting Sales with Times Series Modeling
+# Forecasting Sales with Time Series Modeling
 * The notebook contains an analysis and modeling of the "Rossmann Store Sales" dataset from kaggle: www.kaggle.com/c/rossmann-store-sales.
 * The goal of the competition is to train a model that predicts future sales of six weeks in advance, with the lowest Root Mean Square Percentage Error (RMSPE).
 * This is a two-day project I did with two of my teammates, [Amit Sarid](https://github.com/amitsarid) and [Ido Berlin](https://github.com/IdoBerlin).
